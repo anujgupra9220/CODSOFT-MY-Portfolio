@@ -29,7 +29,7 @@ This is a responsive and modern personal portfolio website created using HTML, C
 
 1. Clone the repository:
    ```bash
-    https://github.com/yourusername/your-repo-name.git
+    https://github.com/anujgupra9220/CODSOFT-MY-Portfolio.git
 2. Open index.html in your browser.
 
 
